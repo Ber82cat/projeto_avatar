@@ -1,2 +1,2 @@
-# projeto_avatar
-algumar informaçãoes sobre o filme do avatar: o caminho das aguas
+# Turma-Estrela_da_anima-o
+projeto Avatar
